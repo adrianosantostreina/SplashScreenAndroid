@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2018/05/28 13:59:17.000.704,=D:\Users\adrianosantosvm\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/05/30 17:12:11.000.493,=D:\Users\adrianosantosvm\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/06/01 16:44:31.000.666,=D:\Users\adrianosantosvm\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/06/14 17:41:03.000.228,=D:\Users\adrianosantosvm\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/06/14 17:41:27.000.682,D:\Users\adrianosantosvm\Documents\Embarcadero\Studio\Projects\Unit1.fmx=D:\Lives\Tira-Teima\SplashScreen\UntMain.fmx</Transaction>
+    <Transaction>2018/06/14 17:41:27.000.682,D:\Users\adrianosantosvm\Documents\Embarcadero\Studio\Projects\Unit1.pas=D:\Lives\Tira-Teima\SplashScreen\UntMain.pas</Transaction>
+    <Transaction>2018/06/14 17:41:36.000.388,D:\Users\adrianosantosvm\Documents\Embarcadero\Studio\Projects\Project1.dproj=D:\Lives\Tira-Teima\SplashScreen\SplashScreen.dproj</Transaction>
+    <Transaction>2018/06/14 17:46:05.000.055,=D:\Lives\Tira-Teima\SplashScreen\Unit2.pas</Transaction>
+    <Transaction>2018/06/14 17:46:40.000.379,D:\Lives\Tira-Teima\SplashScreen\Unit2.fmx=D:\Lives\Tira-Teima\SplashScreen\UntSplash.fmx</Transaction>
+    <Transaction>2018/06/14 17:46:40.000.379,D:\Lives\Tira-Teima\SplashScreen\Unit2.pas=D:\Lives\Tira-Teima\SplashScreen\UntSplash.pas</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile iOSSimulator="iPhone5" Android=""/>
+		<PmacOS iOSSimulator="iPhone5"/>
+	</ActiveMobileDevice>
+</BorlandProject>
